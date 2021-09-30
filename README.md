@@ -38,7 +38,7 @@
 
 `$ cd Telegram-Scraper-Adder`
 
-* Install requierments & Setup Configuration File. ( apiID, apiHash )
+* Install requirements & Setup Configuration File. ( apiID, apiHash )
 
 `$ python setup.py`
 
